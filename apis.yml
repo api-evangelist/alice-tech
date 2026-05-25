@@ -1,0 +1,92 @@
+aid: alice-tech
+name: ALICE Technologies
+description: >-
+  ALICE Technologies is a Menlo Park, California construction technology
+  company that builds an AI-driven generative scheduling and construction
+  optioneering platform. The product simulates millions of possible
+  construction sequences for a project — varying crews, equipment, methods,
+  and constraints — to find optimal schedules, accelerate timelines, recover
+  delayed projects, and de-risk capital project delivery. ALICE's suite
+  includes ALICE Optimize (generative scheduling from imported Primavera P6
+  or Microsoft Project schedules), ALICE Plan (a 2D visual planning canvas
+  overlaid on drawings), ALICE Model (BIM-driven schedule generation from
+  3D models), and the Schedule Insights Agent (an LLM-powered conversational
+  interface for analysing and recommending schedule changes, including
+  automated DCMA 14-point schedule quality scoring). The platform is sold
+  as SaaS to general contractors, owners and developers, and consultants
+  working on industrial (data centres, energy, semiconductors),
+  infrastructure (rail, highway, tunnels), and commercial projects, with
+  reported impacts including up to 17% reduction in project duration and
+  14% labor cost savings. ALICE was founded in 2015 by René Morkos
+  (Stanford PhD) and is backed by Merus Capital, Foundamental, Future
+  Ventures, Lightspeed, Blackhorn Ventures, and Brick and Mortar; in 2026
+  it announced a formal alliance with McKinsey to deploy generative
+  scheduling on capital projects. ALICE integrates by importing from
+  Primavera P6, Primavera Cloud, Microsoft Project, and BIM/drawing
+  formats, but does not publish a public developer API, SDK, or
+  open-source repository — integration is delivered via the product's
+  import/export surface and customer-success engagements.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Technology
+  - Scheduling
+  - Generative Scheduling
+  - Construction Optioneering
+  - Project Planning
+  - BIM
+  - Primavera P6
+  - Microsoft Project
+  - Schedule Optimization
+  - DCMA 14-Point
+  - AI
+  - LLM
+  - Capital Projects
+  - Infrastructure
+  - Industrial Construction
+url: https://raw.githubusercontent.com/api-evangelist/alice-tech/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.alicetechnologies.com
+  - type: Product
+    url: https://www.alicetechnologies.com/construction-project-scheduling-software
+  - type: ALICEOptimize
+    url: https://www.alicetechnologies.com/alice-optimize
+  - type: ALICEPlan
+    url: https://www.alicetechnologies.com/alice-plan
+  - type: ALICEModel
+    url: https://www.alicetechnologies.com/alice-model
+  - type: InsightsAgent
+    url: https://www.alicetechnologies.com/construction-schedule-insights-agent
+  - type: Solutions
+    url: https://www.alicetechnologies.com/solutions
+  - type: Company
+    url: https://www.alicetechnologies.com/about
+  - type: Demo
+    url: https://www.alicetechnologies.com/alice-demo
+  - type: Careers
+    url: https://www.alicetechnologies.com/careers-2
+  - type: Support
+    url: https://support.alicetechnologies.com
+  - type: Blog
+    url: https://blog.alicetechnologies.com
+  - type: CaseStudies
+    url: https://blog.alicetechnologies.com/case-studies
+  - type: News
+    url: https://blog.alicetechnologies.com/news
+  - type: GitHubOrganization
+    url: https://github.com/alicetechnologies
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/alice-technologies
+  - type: YouTube
+    url: https://www.youtube.com/@alicetechnologies
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

@@ -1,4 +1,4 @@
-# alice-tech
+# ALICE Technologies
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ALICE Technologies — AI-driven generative scheduling and construction optioneering for capital projects (no public developer API).
+ALICE Technologies is a Menlo Park, California construction technology company that builds an AI-driven generative scheduling and construction optioneering platform. The product simulates millions of possible construction sequences for a project — varying crews, equipment, methods, and constraints — to find optimal schedules, accelerate timelines, recover delayed projects, and de-risk capital project delivery. ALICE's suite includes ALICE Optimize (generative scheduling from imported Primavera P6 or Microsoft Project schedules), ALICE Plan (a 2D visual planning canvas overlaid on drawings), ALICE Model (BIM-driven schedule generation from 3D models), and the Schedule Insights Agent (an LLM-powered conversational interface for analysing and recommending schedule changes, including automated DCMA 14-point schedule quality scoring). The platform is sold as SaaS to general contractors, owners and developers, and consultants working on industrial (data centres, energy, semiconductors), infrastructure (rail, highway, tunnels), and commercial projects, with reported impacts including up to 17% reduction in project duration and 14% labor cost savings. ALICE was founded in 2015 by René Morkos (Stanford PhD) and is backed by Merus Capital, Foundamental, Future Ventures, Lightspeed, Blackhorn Ventures, and Brick and Mortar; in 2026 it announced a formal alliance with McKinsey to deploy generative scheduling on capital projects. ALICE integrates by importing from Primavera P6, Primavera Cloud, Microsoft Project, and BIM/drawing formats, but does not publish a public developer API, SDK, or open-source repository — integration is delivered via the product's import/export surface and customer-success engagements.
+
+**Areas:** Construction · Construction Technology · Scheduling · Generative Scheduling · Construction Optioneering · Project Planning · BIM · Primavera P6 · Microsoft Project · Schedule Optimization · DCMA 14-Point · Artificial Intelligence
+
+## ALICE Technologies on APIs.io
+
+Everything profiled for ALICE Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alice-tech/](https://apis.io/providers/alice-tech/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alice Tech Domain Security](https://apis.io/security/alice-tech/alice-tech-domain-security/)
+- [Alice Tech Trust Center](https://apis.io/security/alice-tech/alice-tech-trust-center/)
+- [Alice Tech Vulnerability Disclosure](https://apis.io/security/alice-tech/alice-tech-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.alicetechnologies.com)
+- [Support](https://support.alicetechnologies.com)
+- [Blog](https://blog.alicetechnologies.com)
+- [GitHub](https://github.com/alicetechnologies)
+
+## API Evangelist rating
+
+**Kin Score 8.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alice-tech/](https://apis.io/providers/alice-tech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ALICE Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alice-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
